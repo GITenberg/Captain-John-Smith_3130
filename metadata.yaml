@@ -1,0 +1,34 @@
+_repo: Captain-John-Smith_3130
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+description: Less than a year after landing at Jamestown, Captain John Smith arrives
+  in Werowocomoco ("meeting place of chiefs"), in what will become Gloucester County.
+  He is a prisoner of Chief Powatan, a powerful leader of Indians throughout eastern
+  Virginia. Smith later asserts that he was saved from execution by the intercessions
+  of Powatan's young daughter, Pocahontas. The location of Werowocomoco is variously
+  ascribed to the present Wicomico region around Shelly or possibly at Purtan Bay
+  (previously "Poetan", which may have derived from "Powatan"). According to legend,
+  the ancient "Powatan's Chimney" in Wicomico is the remains of a house known to have
+  been built by Dutchmen at the direction of Captain Smith as a peace offering to
+  the Indian chief, but archeaological evidence does not support that.
+gutenberg_issued: '2004-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Smith, John, 1580-1631'
+- GITenberg
+title: Captain John Smith
+url: http://www.gutenberg.org/ebooks/3130
