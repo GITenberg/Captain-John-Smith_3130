@@ -1,5 +1,8 @@
 _repo: Captain-John-Smith_3130
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Warner, Charles Dudley
@@ -18,6 +21,8 @@ description: Less than a year after landing at Jamestown, Captain John Smith arr
   the ancient "Powatan's Chimney" in Wicomico is the remains of a house known to have
   been built by Dutchmen at the direction of Captain Smith as a peace offering to
   the Indian chief, but archeaological evidence does not support that.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3130#Captain-John-Smith
 gutenberg_issued: '2004-10-10'
 gutenberg_type: Text
 identifiers:
